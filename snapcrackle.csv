@@ -1,0 +1,7 @@
+x;i;i<=maxValue(12);i%2!==0 && i%5===0;"i%2!==0 ";i%5===0;else
+'';1;true;false;"true";false;false
+'Snap, ';2;true;false;"false";false;true
+'Snap, 2, ';3;true;false;"true";false;false
+'Snap, 2, Snap, ';4;true;false;"false";false;true
+'Snap, 2, Snap, 4';5;true;true;"false";true;false
+'Snap, 2, Snap, 4, SnapCrackle, ';6;true;false;"false";false;true
